@@ -1,0 +1,11 @@
+{
+  "org": "sympy",
+  "repo": "sympy.github.com",
+  "versions": [
+    {
+      "commit": "03a7bc94602530171364077abe9101fce9913bea",
+      "tag": "",
+      "parsed_at": "2026-10-21T20:15:40.226805+00:00"
+    }
+  ]
+}
